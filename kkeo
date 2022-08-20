@@ -1,0 +1,182 @@
+#EXTM3U url-tvg="https://hqth.me/khichtvepgxml"
+
+# - * - K+ FPT MYTV VIEON TV360 - * - #
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KHICH TV Plus" tvg-logo="https://i.ibb.co/XVZ0hxJ/sportevent1-KHICTV.png",❤SPORT EVENT 1 HD
+http://live.television4you.xyz:8081/sport104082022/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Khích📺" tvg-logo="https://i.ibb.co/0XXBBXk/sportevent2-Khích📺.png",❤SPORT EVENT 2 HD
+http://live.television4you.xyz:8081/sport204082022/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="Khích📺 Plus" tvg-logo="https://i.ibb.co/0FTLtjT/sportevent3-Khích📺 TV.png",❤SPORT EVENT 3 HD
+http://live.television4you.xyz:8081/cine04082022/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| KHICH TV" tvg-logo="https://i.ibb.co/0FTLtjT/sportevent3-KHICH TV.png",❤SPORT EVENT 4 HD
+http://live.television4you.xyz:8081/life04082022/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="Khích📺 Plus" tvg-logo="https://i.ibb.co/0FTLtjT/sportevent3-KHICH TV.png",❤SPORT EVENT 5 HD
+http://live.television4you.xyz:8081/kids04082022/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KHICH TV Plus" tvg-logo="https://i.ibb.co/XVZ0hxJ/sportevent1-KHICTV.png",❤SPORT EVENT 1 HD FPT
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Khích📺" tvg-logo="https://i.ibb.co/0XXBBXk/sportevent2-Khích📺.png",❤SPORT EVENT 2 HD FPT
+
+#EXTINF:-1 tvg-id="klifehd" group-title="Khích📺 Plus" tvg-logo="https://i.ibb.co/0FTLtjT/sportevent3-Khích📺 TV.png",❤SPORT EVENT 3 HD FPT
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/129.png?ver=14", K+ Cine HD
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/131.png?ver=14", K+ Sport1 FHD
+
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/140.png?ver=15", K+ Sport2 FHD
+
+#EXTINF:-1 tvg-id="klifehd" group-title="Khích TV PLUS K+ TV360" tvg-logo="", K+LIFE SD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4f4fb193d831443eaf0902589c62bd92&key=38d5d44ccfc11167d767aab96b469962 
+
+http://live.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1652706117~acl=/*~hmac=8a5ce493cf33c5e231797a2f75ec8c2df66def24319ae268b2655e3799760ed4
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Khích TV PLUS K+ TV360" tvg-logo="", K+SPORT1 SD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7fc15a97679e455fa6951ba672e66151&key=6e3525f6eccfdcb5de30c92e03445310 
+
+http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1652706118~acl=/*~hmac=6138509dfc2c9be96ed2cdcc6ef34a728031ca0ec79d3052c7ba388d7c92a105
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Khích TV PLUS K+ TV360" tvg-logo="", K+SPORT2 SD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f3bfadc4cf9e47f49d74b067a7863b1c&key=5db9686ccc26471fd9ecd08775e56907 
+
+http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1652706118~acl=/*~hmac=6138509dfc2c9be96ed2cdcc6ef34a728031ca0ec79d3052c7ba388d7c92a105
+#EXTINF:-1 group-title="📺|VTVcab" tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/nkytmVd/cab16.png", VTVcab16 | On Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+http://s2.nihontv.net:21585/vtvcab16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺|VTVcab" tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/f2X0sm5/cab3.png", VTVcab3 | On Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+http://s2.nihontv.net:21585/vtvcab3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺|VTVcab" tvg-id="onvff" tvg-logo="https://i.ibb.co/dpJH5ck/onvff.png" , On VFF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://tbientv.xyz/channel/vtvcab?onvff
+#EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv15
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://api.television4you.xyz/v1/getlink/sctv-tv24/sctv22
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 group-title="📺|HTV" tvg-id="htvthethaohd" tvg-logo="https://i.ibb.co/Y8mr4Hf/HTV-TT.png" catchup="append" catchup-days="2" catchup-source="https://tbientv.xyz/channel/dvr?htvtt&t=${start}-${offset}",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺|VTC" tvg-id="vtc3hd" tvg-logo="https://i.ibb.co/nQwBbPj/vtc3.png" catchup="append" catchup-days="2" catchup-source="https://tbientv.xyz/channel/dvr?vtc3&t=${start}-${offset}", VTC3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8#EXTM3U url-tvg="https://hqth.me/khichtvepgxml"
+
+# - * - K+ FPT MYTV VIEON TV360 - * - #
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KHICH TV Plus" tvg-logo="https://i.ibb.co/XVZ0hxJ/sportevent1-KHICTV.png",❤SPORT EVENT 1 HD
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Khích📺" tvg-logo="https://i.ibb.co/0XXBBXk/sportevent2-Khích📺.png",❤SPORT EVENT 2 HD
+
+#EXTINF:-1 tvg-id="klifehd" group-title="Khích📺 Plus" tvg-logo="https://i.ibb.co/0FTLtjT/sportevent3-Khích📺 TV.png",❤SPORT EVENT 3 HD
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KHICH TV Plus" tvg-logo="https://i.ibb.co/XVZ0hxJ/sportevent1-KHICTV.png",❤SPORT EVENT 1 HD FPT
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Khích📺" tvg-logo="https://i.ibb.co/0XXBBXk/sportevent2-Khích📺.png",❤SPORT EVENT 2 HD FPT
+
+#EXTINF:-1 tvg-id="klifehd" group-title="Khích📺 Plus" tvg-logo="https://i.ibb.co/0FTLtjT/sportevent3-Khích📺 TV.png",❤SPORT EVENT 3 HD FPT
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/129.png?ver=14", K+ Cine HD
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/131.png?ver=14", K+ Sport1 FHD
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| K+ MyTV" tvg-logo="https://meco.mytv.vn/static/channel/140.png?ver=15", K+ Sport2 FHD
+
+
+#-*--Kẹo-*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="Khích TV PLUS K+ TV360" tvg-logo="", K+CINE SD 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a6eac0fa9f9431f9d0d59d9932d10a1&key=27b1431b4f6f2531789df519cdb1e1f5 
+
+http://live.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1652706117~acl=/*~hmac=8a5ce493cf33c5e231797a2f75ec8c2df66def24319ae268b2655e3799760ed4
+
+#EXTINF:-1 tvg-id="klifehd" group-title="Khích TV PLUS K+ TV360" tvg-logo="", K+LIFE SD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4f4fb193d831443eaf0902589c62bd92&key=38d5d44ccfc11167d767aab96b469962 
+
+http://live.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1652706117~acl=/*~hmac=8a5ce493cf33c5e231797a2f75ec8c2df66def24319ae268b2655e3799760ed4
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Khích TV PLUS K+ TV360" tvg-logo="", K+SPORT1 SD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7fc15a97679e455fa6951ba672e66151&key=6e3525f6eccfdcb5de30c92e03445310 
+
+http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1652706118~acl=/*~hmac=6138509dfc2c9be96ed2cdcc6ef34a728031ca0ec79d3052c7ba388d7c92a105
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Khích TV PLUS K+ TV360" tvg-logo="", K+SPORT2 SD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f3bfadc4cf9e47f49d74b067a7863b1c&key=5db9686ccc26471fd9ecd08775e56907 
+
+http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1652706118~acl=/*~hmac=6138509dfc2c9be96ed2cdcc6ef34a728031ca0ec79d3052c7ba388d7c92a105
+#EXTINF:-1 group-title="📺|VTVcab" tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/nkytmVd/cab16.png", VTVcab16 | On Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+http://s2.nihontv.net:21585/vtvcab16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺|VTVcab" tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/f2X0sm5/cab3.png", VTVcab3 | On Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+http://s2.nihontv.net:21585/vtvcab3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺|VTVcab" tvg-id="onvff" tvg-logo="https://i.ibb.co/dpJH5ck/onvff.png" , On VFF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://tbientv.xyz/channel/vtvcab?onvff
+#EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://api.television4you.xyz/v1/getlink/sctv-tv24/sctv17
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://api.television4you.xyz/v1/getlink/sctv-tv24/sctv22
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://api.television4you.xyz/v1/getlink/sctv-tv24/sctv15
+#EXTINF:-1 group-title="📺|HTV" tvg-id="htvthethaohd" tvg-logo="https://i.ibb.co/Y8mr4Hf/HTV-TT.png" catchup="append" catchup-days="2" catchup-source="https://tbientv.xyz/channel/dvr?htvtt&t=${start}-${offset}",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺|VTC" tvg-id="vtc3hd" tvg-logo="https://i.ibb.co/nQwBbPj/vtc3.png" catchup="append" catchup-days="2" catchup-source="https://tbientv.xyz/channel/dvr?vtc3&t=${start}-${offset}", VTC3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
